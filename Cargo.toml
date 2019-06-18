@@ -1,3 +1,5 @@
+cargo-features = ["rename-dependency"]
+
 [package]
 authors = ["Beatriz Rizental <beatriz.rizental@gmail.com>"]
 name = "socketlabs"
